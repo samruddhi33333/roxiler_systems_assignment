@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  nav a {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .store-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
